@@ -24,7 +24,7 @@ AutoTyper is a Python application that automates typing from the clipboard or a 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/DlgshKurd/autotyper.git
+git clone https://github.com/DlgshKurd/AutoTyper.git
 ```
 2. Navigate to the project directory:
 ```bash
