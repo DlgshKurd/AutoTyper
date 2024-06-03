@@ -47,22 +47,6 @@ Typing Speed: Adjust the typing speed using the slider.
 Timer: Set the countdown timer in seconds before typing starts.
 Hotkeys: Use the predefined hotkeys to control typing, speed, transparency, and the stay on top feature.
 
-## Keybinds
-
-F10: Stop typing
-
-F9: Pause/Resume typing
-
-F8: Increase typing speed
-
-F7: Decrease typing speed
-
-F11: Decrease transparency
-
-F12: Increase transparency
-
-F6: Toggle stay on top
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
