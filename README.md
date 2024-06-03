@@ -50,11 +50,17 @@ Hotkeys: Use the predefined hotkeys to control typing, speed, transparency, and 
 ## Keybinds
 
 F10: Stop typing
+
 F9: Pause/Resume typing
+
 F8: Increase typing speed
+
 F7: Decrease typing speed
+
 F11: Decrease transparency
+
 F12: Increase transparency
+
 F6: Toggle stay on top
 
 ## Contributing
