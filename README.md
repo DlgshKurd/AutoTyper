@@ -36,7 +36,7 @@ pip install pyperclip keyboard
 ```
 4. Run the "autotyper.py"
 ```bash
-python autotyper.py
+python AutoTyper.py
 ```
 ## How to Use
 
